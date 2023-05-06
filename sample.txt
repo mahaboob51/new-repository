@@ -1,0 +1,7 @@
+hello world 
+int maim()
+{
+
+printf("hello world ");
+return 0;
+}
